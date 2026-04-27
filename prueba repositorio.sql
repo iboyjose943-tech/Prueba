@@ -27,3 +27,5 @@ insert into Productos(Manzana, Arroz) values ('Manzana verde', 'Delli');
 select * from Productos
 
 insert into Productos(Manzana, Arroz) values ('Banano', 'ina');
+insert into Productos(Manzana, Arroz) values ('Banano', 'ina');
+insert into Productos(Manzana, Arroz) values ('Banano', 'ina');
