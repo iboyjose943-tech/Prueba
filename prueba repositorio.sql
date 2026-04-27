@@ -22,4 +22,6 @@ Manzana VARCHAR(50),
 Arroz varchar(5)
 );
 
+insert into Productos(Manzana, Arroz) values ('Manzana verde', 'Delli');
+
 select * from Productos
